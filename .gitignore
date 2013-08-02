@@ -1,4 +1,6 @@
 coverage*
+*.sublime-project
+*.sublime-workspace
 test.log
 test/xsd
 .DS_Store
